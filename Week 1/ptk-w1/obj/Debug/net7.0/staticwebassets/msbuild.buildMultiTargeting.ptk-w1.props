@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ptk-w1.props" />
+</Project>
