@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\ptk-hw\\ptk-w1\\ptk-w1.csproj": {}
+    "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\Patika-HW\\Week 1\\ptk-w1\\ptk-w1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\ptk-hw\\ptk-w1\\ptk-w1.csproj": {
+    "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\Patika-HW\\Week 1\\ptk-w1\\ptk-w1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\ptk-hw\\ptk-w1\\ptk-w1.csproj",
+        "projectUniqueName": "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\Patika-HW\\Week 1\\ptk-w1\\ptk-w1.csproj",
         "projectName": "ptk-w1",
-        "projectPath": "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\ptk-hw\\ptk-w1\\ptk-w1.csproj",
+        "projectPath": "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\Patika-HW\\Week 1\\ptk-w1\\ptk-w1.csproj",
         "packagesPath": "C:\\Users\\mertc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\ptk-hw\\ptk-w1\\obj\\",
+        "outputPath": "C:\\Users\\mertc\\Desktop\\Programming\\C#\\Vakıfbank\\Patika-HW\\Week 1\\ptk-w1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mertc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
